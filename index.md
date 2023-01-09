@@ -10,7 +10,7 @@ team:
     image: assets/images/jian_tang.jpg
   - name: Zuobai Zhang
     title: Teaching Assistant
-    image: assets/images/zuobai_zhang.jpg
+    image: assets/images/shengchao_liu.jpg
   - name: TBA
     title: Teaching Assistant
     image: assets/images/shengchao_liu.jpeg
