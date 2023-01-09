@@ -4,7 +4,7 @@ title: MATH 80600A - Machine Learning II<br>Deep Learning and Applications
 permalink: /schedule
 
 schedule:
-  - date: Jan. 5,6
+  - date: Jan. 11,12
     topics:
     - name: Introduction (Eng)
       url: https://www.dropbox.com/scl/fi/pxvhbtvn7kc5a6w4acna5/Week1-Intro.pptx?dl=0&rlkey=z99e8opm9si45a3irrwpo9lv4
@@ -26,7 +26,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/prob.html
       - name: Chap. 5
         url: http://www.deeplearningbook.org/contents/ml.html
-  - date: Jan. 12,13
+  - date: Jan. 18,19
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks (Eng)
       url: https://www.dropbox.com/s/j06w5wyv53e27x8/Week2-FFN%26Regularization.pdf?dl=0
@@ -40,7 +40,7 @@ schedule:
         url: http://www.deeplearningbook.org/contents/regularization.html
       - name: Chap. 8
         url: http://www.deeplearningbook.org/contents/optimization.html
-  - date: Jan. 19,20
+  - date: Jan. 25,26
     topics:
       - name: PyTorch (Eng)
         url: https://www.dropbox.com/s/8b4g20nbyfe12ir/2022_Deep%20Learning%20Frameworks.pdf?dl=0
@@ -59,7 +59,7 @@ schedule:
         url: https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
-  - date: Jan. 26,27
+  - date: Feb. 1,2
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks (Eng)
         url: https://www.dropbox.com/s/6qoo6g37xf08m3q/Week4-CNN%26RNN.pdf?dl=0
@@ -78,7 +78,7 @@ schedule:
         url: https://arxiv.org/abs/1412.3555
       - name: DenseNet
         url: https://arxiv.org/abs/1608.06993
-  - date: Feb. 2,3
+  - date: Feb. 8,9
     topics:
       - name: Natural Language Processing I (Eng)
         url: https://www.dropbox.com/s/ds4jlcbpvfrdl4r/Week5-DL4NLP-part1.pdf?dl=0
@@ -90,7 +90,7 @@ schedule:
     presentations:
       - name: SGNS
         url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
-  - date: Feb. 9,10
+  - date: Feb. 15,16
     topics:
       - name: Natural Language Processing II (Eng)
         url: https://www.dropbox.com/s/ds4jlcbpvfrdl4r/Week5-DL4NLP-part1.pdf?dl=0
@@ -111,9 +111,7 @@ schedule:
         url: https://www.dropbox.com/s/e36h34ovpde4jl3/2022_Math80600A_HW_1.pdf?dl=0
       - name: Instruction (Fr)
         url: https://www.dropbox.com/s/4y915stmx3zmqdb/2022_Math80600H_DEV_1.pdf?dl=0
-  - date: Feb. 16,17
-    topics: Q & A for Projects
-  - date: Mar. 2,3
+  - date: Feb. 22,23
     topics:
       - name: Natural Language Processing III (PDF, Eng)
         url: https://www.dropbox.com/s/4i3k59kakn74dd5/Week7-DL4NLP-part2.pdf?dl=0
@@ -135,7 +133,9 @@ schedule:
         url: https://arxiv.org/abs/1606.05250
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
-  - date: Mar. 9,10
+  - date: Mar. 1,2
+    topics: Q & A for Projects
+  - date: Mar. 8,9
     topics:
       - name: Natural Language Processing IV (Eng)
         url: https://www.dropbox.com/s/0aid8ndangj9np1/Week8-DL4NLP-part3.pdf?dl=0
@@ -152,7 +152,7 @@ schedule:
     homeworks:
       - name: Instruction (Eng & Fr)
         url: https://www.dropbox.com/s/r32tentediwy854/HW2_Instruction.pdf?dl=0
-  - date: Mar. 16,17
+  - date: Mar. 15,16
     topics:
       - name: Graph Representation Learning I (Eng)
         url: https://www.dropbox.com/s/93xzu60nnp3kyhk/Week9-Graph-part1.pdf?dl=0
@@ -170,7 +170,7 @@ schedule:
         url: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
       - name: LargeVis
         url: https://arxiv.org/abs/1602.00370
-  - date: Mar. 23,24
+  - date: Mar. 22,23
     topics:
       - name: Graph Representation Learning II (Eng)
         url: https://www.dropbox.com/s/lxuk6rcw2bv4ea4/Week10-Graph-part2.pdf?dl=0
@@ -192,13 +192,13 @@ schedule:
         url: https://arxiv.org/abs/1806.01973
       - name: HAN
         url: https://arxiv.org/abs/1903.07293
-  - date: Marh. 30,31
+  - date: Mar. 29,30
     topics:
       - name: AI for drug discovery (Eng)
         url: https://www.dropbox.com/s/ob4vn10kn4mqrlk/GDL4DD.pdf?dl=0
     readings:
     presentations:
-  - date: Apr. 6,7
+  - date: Apr. 5,6
     topics: Poster Sessions
 ---
 
