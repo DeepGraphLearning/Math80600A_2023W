@@ -10,8 +10,8 @@ team:
     image: assets/images/jian_tang.jpg
   - name: Zuobai Zhang
     title: Teaching Assistant
-    image: assets/images/shengchao_liu.jpg
-  - name: TBA
+    image: assets/images/shengchao_liu.jpeg
+  - name: Jiarui Lu
     title: Teaching Assistant
     image: assets/images/shengchao_liu.jpeg
 ---
@@ -25,11 +25,12 @@ team:
   - **Class 1 (in French)**: 3:30 - 6:30 PM EST, Wednesday 
   - **Class 2 (in English)**: 8:30 - 11:30 AM EST, Thursday
 - **Where**:
-  - Zoom
+  - **Class 1 (in French)**: Decelles, Fondation des CPA du Québec
+  - **Class 2 (in English)**: Decelles, Mont-Laurier
 - **Office hour**:
   - Jian Tang (Instructor): TBA
   - Zuobai Zhang (TA): TBA
-  - TBA (TA): TBA
+  - Jiarui Lu (TA): TBA
 
 [Jian Tang]: https://jian-tang.com
 [Quebecor]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html
@@ -54,11 +55,11 @@ team:
 
 - **Homework**: 20%
 - **Class Presentations**: 10%
-- **Course Projects**: 40%
+- **Course Projects**: 30%
     - **Research Proposal**: 5%
     - **Poster**: 10%
-    - **Report**: 25%
-- **Final Exam**: 30%
+    - **Report**: 15%
+- **Final Exam**: 40%
 
 # Staff
 
