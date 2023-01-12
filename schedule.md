@@ -7,8 +7,11 @@ schedule:
   - date: Jan. 11,12
     topics:
     - name: Introduction (Eng)
+      url: https://www.dropbox.com/s/ks8q841oh4u6lda/Week1-Intro.pdf?dl=0
     - name: Mathematics (Eng)
+      url: https://www.dropbox.com/s/1yyg8hrhe5ydogp/Week1-Maths.pdf?dl=0
     - name: ML Basics (Eng)
+      url: https://www.dropbox.com/s/mwid7a5povxhzz8/Week1-ML.pdf?dl=0
     - name: Introduction (Fr)
       url: https://www.dropbox.com/s/6ejliwrcz0gtc69/Week1-Intro-Fr.pdf?dl=0
     - name: Mathematics (Fr)
