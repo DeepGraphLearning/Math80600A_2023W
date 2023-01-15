@@ -106,12 +106,12 @@ schedule:
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
     presentations:
-      - name: Memory Networks
-        url: https://arxiv.org/abs/1503.08895
       - name: SQuAD Dataset
         url: https://arxiv.org/abs/1606.05250
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
+      - name: GPT-3
+        url: https://arxiv.org/abs/2005.14165 
   - date: Mar. 1,2
     topics: Q & A for Projects
   - date: Mar. 8,9
