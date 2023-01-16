@@ -67,8 +67,8 @@ schedule:
         url: http://arxiv.org/abs/1512.03385
       - name: GRU
         url: https://arxiv.org/abs/1412.3555
-      - name: DenseNet
-        url: https://arxiv.org/abs/1608.06993
+      - name: EfficientNet
+        url: https://arxiv.org/abs/1905.11946
   - date: Feb. 8,9
     topics:
       - name: Natural Language Processing I (Eng)
@@ -89,8 +89,8 @@ schedule:
       - name: Seq2Seq
         url: https://arxiv.org/abs/1409.3215
     presentations:
-      - name: Tree LSTM
-        url: https://arxiv.org/abs/1503.00075
+      - name: T5
+        url: https://arxiv.org/abs/1910.10683
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
     homeworks:
@@ -106,8 +106,8 @@ schedule:
       - name: Transformer
         url: https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf
     presentations:
-      - name: SQuAD Dataset
-        url: https://arxiv.org/abs/1606.05250
+      - name: XLNet
+        url: https://arxiv.org/abs/1906.08237
       - name: GLUE Benchmark
         url: https://arxiv.org/abs/1804.07461
       - name: GPT-3
@@ -158,12 +158,12 @@ schedule:
       - name: Graph Isomorphism Network
         url: https://arxiv.org/pdf/1810.00826
     presentations:
-      - name: GraphSAGE
-        url: https://arxiv.org/abs/1706.02216
-      - name: PinSAGE
-        url: https://arxiv.org/abs/1806.01973
-      - name: HAN
-        url: https://arxiv.org/abs/1903.07293
+      - name: RGCN
+        url: https://arxiv.org/abs/1703.06103
+      - name: SGC
+        url: https://arxiv.org/abs/1902.07153
+      - name: Graph Transformer
+        url: https://arxiv.org/abs/1911.06455
   - date: Mar. 29,30
     topics:
       - name: AI for drug discovery (Eng)
