@@ -30,6 +30,7 @@ schedule:
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks (Eng)
     - name: Feedforward Neural Networks & Optimization Tricks (Fr)
+      url: https://www.dropbox.com/s/0khhc82tdd0qykv/Week2-FFN%26Regularization-Fr.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 6
