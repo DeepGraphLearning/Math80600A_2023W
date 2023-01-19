@@ -29,6 +29,7 @@ schedule:
   - date: Jan. 18,19
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks (Eng)
+      url: https://www.dropbox.com/s/bfk8oz8axxa8ks9/Week2-FFN%26Regularization.pdf?dl=0
     - name: Feedforward Neural Networks & Optimization Tricks (Fr)
       url: https://www.dropbox.com/s/0khhc82tdd0qykv/Week2-FFN%26Regularization-Fr.pdf?dl=0
     readings:
