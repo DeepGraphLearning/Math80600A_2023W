@@ -42,11 +42,11 @@ schedule:
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: Jan. 25,26
     topics:
-      - name: PyTorch (Eng)
+      - name: PyTorch Tutorial (Eng, TBA)
       - name: Notebook Part I (Eng)
+        url: https://colab.research.google.com/drive/1SIaYyrcS8TBJEaGlcWZXaBQft6mnlTCh?usp=share_link
       - name: Notebook Part II (Eng)
-      - name: PyTorch (Fr)
-      - name: Notebook (Fr)
+        url: https://colab.research.google.com/drive/11eV7RCdZqsO8qtlqB064SDxwyPiBfEO4?usp=share_link
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
