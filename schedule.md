@@ -42,6 +42,8 @@ schedule:
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: Jan. 25,26
     topics:
+      - name: Convolutional Neural Networks (Fr)
+        url: https://www.dropbox.com/s/85sgxsv9m5qu21l/S3-CNN.pdf?dl=0
       - name: PyTorch Tutorial (Eng, TBA)
       - name: Notebook Part I (Eng)
         url: https://colab.research.google.com/drive/1SIaYyrcS8TBJEaGlcWZXaBQft6mnlTCh?usp=share_link

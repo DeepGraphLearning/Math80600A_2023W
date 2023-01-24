@@ -4,37 +4,35 @@ title: MATH 80600A - Machine Learning II<br>Deep Learning and Applications
 permalink: /project
 ---
 
-# Course Project
+# Course Project (2023 Winter)
 
-The goal of the course project is to apply deep learning techniques learned in class (it is fine if you use the techniques not introduced in class) to solve real-world problems or develop new deep learning techniques. You are expected to work in teams and learn to collaborate with your teammates. Each group should make a poster in the final class and participate in the poster session to present your results and communicate with other teams. A report should also be submitted at the end of the course.
+The goal of the course project is to apply deep learning techniques learned in class (it is fine if you use the techniques not introduced in class) to solve real-world problems or develop new deep learning techniques. You are expected to work in teams and learn to collaborate with your teammates. Each group should make a poster in the final class and participate in the poster session to present your results and communicate with other teams. A project report, source codes, and data sets should also be submitted at the end of the course.
 
-Full instruction can be found [here (Eng & Fr)](https://www.dropbox.com/s/envkkwtvj7if1kd/Instructions_on_Course_Projects.pdf?dl=0).
+**Full instructions** can be found [here (Eng)](https://www.dropbox.com/s/v27025efpsfh6vk/Instructions_on_Course_Projects_Deep_Learning.pdf?dl=0) and [here (Fr)](https://www.dropbox.com/s/aq42mxdaci510hq/Instructions%20sur%20les%20projets%20de%20cours.pdf?dl=0).
 
-The GCP tutorial can be found [here (Eng)](https://www.dropbox.com/s/gqpjr50zsfkso3f/GCP_Tutorial.pdf?dl=0).
+<!-- The GCP tutorial can be found [here (Eng)](). -->
 
 ## Guidelines
 
-- The project proposal is a summary of your proposed research topic and study plan. It should include the background of the problem (context and motivation), problem definition, and a plan on how you want to study it. The project proposal should be at most 2 pages.
-
-- The suggested poster size is 36W x 48H inches or 90 x 122 cm. Some [examples of posters](https://postersession.ai/) in conferences are available here.
-
-- The final report should give a comprehensive description of your projects. It should contain a section about the motivation and definition of your selected topics, a section summarizing the related work, a section on the techniques you used for solving the problem, an empirical section presenting your data sets and results with detailed analysis, and a conclusion section. The report should be at most 8 pages (not including references) using [the NeurIPS format](https://nips.cc/Conferences/2015/PaperInformation/StyleFiles).
-The final report should be submitted in pdf format.
-
-
-## Presentation
-
-- You will be using [Gather Town](http://www.gather.town/) for your poster presentation.
-
-- We created a space [here](https://app.gather.town/invite?token=fqdUAa8nsX9ono7di7MH6cW466atsgt2), and you will upload your project poster (in groups).
-
-- Here is a [PDF tutorial](https://www.dropbox.com/s/50b1c10d9m5jeeb/instruction.pdf?dl=0) and a 1-min [video tutorial](https://www.dropbox.com/s/62r79g7j8tzhvhu/GatherTown%20Tutorial.mov?dl=0). The video might be outdated with an old Gather Town version, yet the high-level operations are the same.
-
+- **Project Proposal**. The project proposal is a summary of your proposed re- search topic and study plan. It should include the background of the problem (context and motivation), problem definition, and a plan on how you want to study it. The project proposal should be at most 2 pages.
+- **Poster**. The suggested poster size will be updated later. Some examples of posters in conferences are available here: [postersession.ai/](https://postersession.ai/)
+- **Final Report**. The final report should give a comprehensive description of your projects. It should contain a section about the motivation and definition of your selected topics, a section summarizing the related work, a section on the techniques you used for solving the problem, an empirical section presenting your data sets and results with detailed analysis, and a conclusion section. The report should be at most 8 pages (not including references) using the NeurIPS format1. The final report should be submitted in pdf format. 
 
 
 
 ## Schedule
-TBA
+
+- Project Proposal Deadline: **March 05, 2023**
+- Poster Representation: **April 12, 2023 (J1) / April 13, 2023 (J2)**.
+- Final Report Deadline: **April 26, 2023** (*Note: 3 points will be deducted for reports handed in late than the deadline*).
+
+*All the deadlines are in Eastern time (subject to the instruction files above if any difference).*
+
+
+
+## Presentation
+
+TBA.
 
 <!-- 
 - **Proposal due**: Feb. 28th
