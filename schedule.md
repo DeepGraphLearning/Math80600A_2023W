@@ -102,6 +102,7 @@ schedule:
     topics:
       - name: Natural Language Processing III (Eng)
       - name: Natural Language Processing III (Fr)
+      - name: (Q & A for Projects)
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
@@ -115,7 +116,7 @@ schedule:
       - name: GPT-3
         url: https://arxiv.org/abs/2005.14165 
   - date: Mar. 1,2
-    topics: Q & A for Projects
+    topics: Break
   - date: Mar. 8,9
     topics:
       - name: Natural Language Processing IV (Eng)
