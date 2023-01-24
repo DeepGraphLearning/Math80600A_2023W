@@ -26,7 +26,7 @@ The goal of the course project is to apply deep learning techniques learned in c
 - Poster Representation: **April 12, 2023 (J1) / April 13, 2023 (J2)**.
 - Final Report Deadline: **April 26, 2023** (*Note: 3 points will be deducted for reports handed in late than the deadline*).
 
-*All the deadlines are in Eastern time (subject to the instruction files above if any difference).*
+*All the deadlines are in Eastern time and subject to the instruction files above if any difference.*
 
 
 
