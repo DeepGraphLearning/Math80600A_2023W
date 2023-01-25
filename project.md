@@ -10,7 +10,8 @@ The goal of the course project is to apply deep learning techniques learned in c
 
 **Full instructions** can be found [here (Eng)](https://www.dropbox.com/s/v27025efpsfh6vk/Instructions_on_Course_Projects_Deep_Learning.pdf?dl=0) and [here (Fr)](https://www.dropbox.com/s/aq42mxdaci510hq/Instructions%20sur%20les%20projets%20de%20cours.pdf?dl=0).
 
-<!-- The GCP tutorial can be found [here (Eng)](). -->
+You may for sure use Google Colab! Or run your codes on Google Cloud Platform(GCP). The GCP tutorial can be found [here](https://www.dropbox.com/s/85e0ci48ruue0rm/Deep_Learning_and_Applications.pdf?dl=0).
+
 
 ## Guidelines
 
