@@ -44,7 +44,8 @@ schedule:
     topics:
       - name: Convolutional Neural Networks (Fr)
         url: https://www.dropbox.com/s/85sgxsv9m5qu21l/S3-CNN.pdf?dl=0
-      - name: PyTorch Tutorial (Eng, TBA)
+      - name: PyTorch Tutorial (Slides, Eng)
+        url: https://www.dropbox.com/s/9lt50q009x3e5l3/2023_Deep%20Learning%20Frameworks.pdf?dl=0
       - name: Notebook Part I (Eng)
         url: https://colab.research.google.com/drive/1SIaYyrcS8TBJEaGlcWZXaBQft6mnlTCh?usp=share_link
       - name: Notebook Part II (Eng)
