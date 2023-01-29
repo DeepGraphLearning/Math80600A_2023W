@@ -58,8 +58,10 @@ schedule:
       - name: Dive into Deep Learning
         url: https://github.com/dsgiitr/d2l-pytorch
     homeworks:
-      - name: HW1 - Instruction
-        url: https://www.dropbox.com/s/eqini7wubgnhrn0/hw1.pdf?dl=0
+      - name: HW-1 (Eng)
+        url: https://www.dropbox.com/s/gn6f9yjlo89h6fk/hw1_en.pdf?dl=0
+      - name: Devoir-1 (Fr)
+        url: https://www.dropbox.com/s/x4yj4f7asqsq0nb/hw1_fr.pdf?dl=0
   - date: Feb. 1,2
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks (Eng)
