@@ -29,7 +29,7 @@ team:
   - **Class 2 (in English)**: Decelles, Mont-Laurier
 - **Office hour**:
   - Jian Tang (Instructor): TBA
-  - Zuobai Zhang (TA) and Jiarui Lu (TA):Friday 10:00 - 11:00 AM EST (recurring)
+  - Zuobai Zhang (TA) and Jiarui Lu (TA): Friday 10:00 - 11:00 AM EST (recurring)
     - Google Meet: [Link](https://meet.google.com/bxc-kxfp-msw) | PIN: 399 534 248
 
 [Jian Tang]: https://jian-tang.com
