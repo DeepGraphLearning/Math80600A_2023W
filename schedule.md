@@ -104,10 +104,13 @@ schedule:
       - name: CNN Multi-task Learning
         url: https://ronan.collobert.com/pub/matos/2008_nlp_icml.pdf
   - date: Feb. 22,23
+    topics: No Class (Projects proposal ready)
+  - date: Mar. 1,2
+    topics: Break
+  - date: Mar. 8,9
     topics:
       - name: Natural Language Processing III (Eng)
       - name: Natural Language Processing III (Fr)
-      - name: (Q & A for Projects)
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
@@ -120,9 +123,7 @@ schedule:
         url: https://arxiv.org/abs/1804.07461
       - name: GPT-3
         url: https://arxiv.org/abs/2005.14165 
-  - date: Mar. 1,2
-    topics: Break
-  - date: Mar. 8,9
+  - date: Mar. 15,16
     topics:
       - name: Natural Language Processing IV (Eng)
       - name: Natural Language Processing IV (Fr)
@@ -134,7 +135,7 @@ schedule:
     presentations:
       - name: RoBERTa
         url: https://arxiv.org/pdf/1907.11692
-  - date: Mar. 15,16
+  - date: Mar. 22,23
     topics:
       - name: Graph Representation Learning I (Eng)
       - name: Graph Representation Learning I (Fr)
@@ -150,7 +151,7 @@ schedule:
         url: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
       - name: LargeVis
         url: https://arxiv.org/abs/1602.00370
-  - date: Mar. 22,23
+  - date: Mar. 29,30
     topics:
       - name: Graph Representation Learning II (Eng)
       - name: Graph Representation Learning II (Fr)
@@ -170,13 +171,10 @@ schedule:
         url: https://arxiv.org/abs/1902.07153
       - name: Graph Transformer
         url: https://arxiv.org/abs/1911.06455
-  - date: Mar. 29,30
-    topics:
-      - name: AI for drug discovery (Eng)
-    readings:
-    presentations:
   - date: Apr. 5,6
-    topics: Poster Sessions
+    topics: Generative Models, AI Generated Content (AIGC)
+  - date: Apr. 12,13
+    topics: Poster Session
 ---
 
 # Schedule for In-class Presentations
