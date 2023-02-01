@@ -65,7 +65,8 @@ schedule:
   - date: Feb. 1,2
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks (Eng)
-      - name: Convolutional Neural Networks & Recurrent Neural Networks (Fr)
+      - name: Introduction to Pytorch (Fr)
+        url: https://www.dropbox.com/s/gbnzbtonjmkrzlx/S4-Pytorch.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 9
