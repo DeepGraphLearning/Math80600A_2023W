@@ -64,7 +64,7 @@ schedule:
         url: https://www.dropbox.com/s/x4yj4f7asqsq0nb/hw1_fr.pdf?dl=0
   - date: Feb. 1,2
     topics:
-      - name: CNNs and RNNs (Eng)
+      - name: CNN (Eng)
         url: https://www.dropbox.com/s/bbcauoct4cw2feg/Week4-CNN%26RNN.pdf?dl=0
       - name: Introduction to Pytorch (Fr)
         url: https://www.dropbox.com/s/gbnzbtonjmkrzlx/S4-Pytorch.pdf?dl=0
@@ -83,8 +83,9 @@ schedule:
         url: https://arxiv.org/abs/1905.11946
   - date: Feb. 8,9
     topics:
+      - name: RNNs (Fr)
+        url: https://www.dropbox.com/s/40ofkweg3pymwa0/S5-RNN.pdf?dl=0
       - name: Natural Language Processing I (Eng)
-      - name: Natural Language Processing I (Fr)
     readings:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
