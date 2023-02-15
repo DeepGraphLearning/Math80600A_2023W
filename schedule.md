@@ -94,8 +94,9 @@ schedule:
         url: https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf
   - date: Feb. 15,16
     topics:
-      - name: Natural Language Processing II (Eng)
-      - name: Natural Language Processing II (Fr)
+      - name: Natural Language Processing I (Fr)
+        url: https://www.dropbox.com/s/62v9x7wzn0snka8/S6-NLP.pdf?dl=0
+      - name: Natural Language Processing I (Eng)
     readings:
       - name: CNN for sentence classification
         url: https://arxiv.org/abs/1408.5882
