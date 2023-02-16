@@ -97,6 +97,7 @@ schedule:
       - name: Natural Language Processing I (Fr)
         url: https://www.dropbox.com/s/62v9x7wzn0snka8/S6-NLP.pdf?dl=0
       - name: Natural Language Processing I (Eng)
+        url: https://www.dropbox.com/s/k5ut69owszdwx3t/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: CNN for sentence classification
         url: https://arxiv.org/abs/1408.5882
