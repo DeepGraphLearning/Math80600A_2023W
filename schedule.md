@@ -115,6 +115,7 @@ schedule:
   - date: Mar. 8,9
     topics:
       - name: Natural Language Processing III (Eng)
+        url: https://www.dropbox.com/s/zrvbydapfhdgi2s/S7-Transformer_Bert.pdf?dl=0
       - name: Natural Language Processing III (Fr)
     readings:
       - name: Attention Seq2Seq
