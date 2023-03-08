@@ -115,6 +115,7 @@ schedule:
   - date: Mar. 8,9
     topics:
       - name: Natural Language Processing III (Eng)
+        url: https://www.dropbox.com/s/v5yclol68mkrug2/Week7-DL4NLP-part2.pdf?dl=0
       - name: Natural Language Processing III (Fr)
         url: https://www.dropbox.com/s/zrvbydapfhdgi2s/S7-Transformer_Bert.pdf?dl=0
     readings:
