@@ -137,8 +137,10 @@ schedule:
         url: https://www.dropbox.com/s/48o5moubjg4u784/hwk2-fr.pdf?dl=0
   - date: Mar. 15,16
     topics:
-      - name: Natural Language Processing IV (Eng)
-      - name: Natural Language Processing IV (Fr)
+      - name: Natural Language Processing III (Eng)
+        url: https://www.dropbox.com/s/9md812y7ywk4xut/Week8-DL4NLP-part3.pdf?dl=0
+      - name: Generative models (Fr)
+        url: https://www.dropbox.com/s/neew9u8rm8xy82g/S8-MG_P1.pdf?dl=0
     readings:
       - name: BERT
         url: https://arxiv.org/abs/1810.04805
