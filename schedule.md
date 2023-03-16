@@ -132,9 +132,9 @@ schedule:
         url: https://arxiv.org/abs/2005.14165 
     homeworks:
       - name: HW-2 (Eng)
-        url: https://www.dropbox.com/s/747cqbgaq2m6asb/hwk2-en.pdf?dl=0
+        url: https://www.dropbox.com/s/r7hg2fo4b2d2o1b/hw2.pdf?dl=0
       - name: Devoir-2 (Fr)
-        url: https://www.dropbox.com/s/48o5moubjg4u784/hwk2-fr.pdf?dl=0
+        url: https://www.dropbox.com/s/dmqdzibc8o7lr81/hw2-fr.pdf?dl=0
   - date: Mar. 15,16
     topics:
       - name: Natural Language Processing III (Eng)
