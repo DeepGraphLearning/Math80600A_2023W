@@ -152,7 +152,9 @@ schedule:
   - date: Mar. 22,23
     topics:
       - name: Graph Representation Learning I (Eng)
+        url: https://www.dropbox.com/s/2bo2edwwxlqf6yn/Week9-Graph-part1.pdf?dl=0
       - name: Graph Representation Learning I (Fr)
+        url: https://www.dropbox.com/s/sbbaqb92dy0whx6/S9-Graphes-P1.pdf?dl=0
     readings:
       - name: DeepWalk
         url: https://arxiv.org/abs/1403.6652
