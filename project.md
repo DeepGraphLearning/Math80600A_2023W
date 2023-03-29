@@ -31,9 +31,13 @@ You may for sure use Google Colab! Or run your codes on Google Cloud Platform(GC
 
 
 
-## Presentation
+## Poster Presentation
 
-TBA.
+- We use [Gather](https://www.gather.town/) to do poster presentation. You can find a video [tutorial](https://www.dropbox.com/s/p6jxrab7zeag68s/gather_tutorial.mov?dl=0) that guides you how to upload your poster (by group). Be sure to do this before the poster session: April 12 (J1) / April 13 (J2).
+- The space for poster session is already set [here](https://app.gather.town/app/MLhk9ll8KsDMHZSo/MATH80600A_W23_Poster). You can upload your poster (in image format) once you are ready.
+- If you have questions about using Gather, feel free to contact TAs.
+
+
 
 <!-- 
 - **Proposal due**: Feb. 28th
