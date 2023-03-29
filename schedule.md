@@ -170,7 +170,9 @@ schedule:
   - date: Mar. 29,30
     topics:
       - name: Graph Representation Learning II (Eng)
+        url: https://www.dropbox.com/s/lpl159xkvt0jjjw/Week10-Graph-part2.pdf?dl=0
       - name: Graph Representation Learning II (Fr)
+        url: https://www.dropbox.com/s/c2hx4y7x60p4vz4/S10-Graphes-P2.pdf?dl=0
     readings:
       - name: Graph Convolutional Networks
         url: https://arxiv.org/abs/1609.02907
