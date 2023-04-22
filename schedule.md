@@ -64,7 +64,7 @@ schedule:
         url: https://www.dropbox.com/s/x4yj4f7asqsq0nb/hw1_fr.pdf?dl=0
   - date: Feb. 1,2
     topics:
-      - name: CNN (Eng)
+      - name: CNNs and RNNs (Eng)
         url: https://www.dropbox.com/s/bbcauoct4cw2feg/Week4-CNN%26RNN.pdf?dl=0
       - name: Introduction to Pytorch (Fr)
         url: https://www.dropbox.com/s/gbnzbtonjmkrzlx/S4-Pytorch.pdf?dl=0
